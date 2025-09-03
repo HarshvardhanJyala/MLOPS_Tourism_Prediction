@@ -1,10 +1,11 @@
+---
 title: MLOPS Tourism Prediction
 emoji: 🚀
-colorFrom: red
+colorFrom: blue
 colorTo: red
-sdk: docker
+sdk: streamlit
 app_port: 8501
+sdk_version: "1.24.0"
 app_file: app.py
-tags:
-  - streamlit
 pinned: false
+
